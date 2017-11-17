@@ -1,0 +1,6 @@
+set(loco_SETUP_PY_VERSION "1.0.0")
+set(loco_SETUP_PY_SCRIPTS "")
+set(loco_SETUP_PY_PACKAGES "loco")
+set(loco_SETUP_PY_PACKAGE_DIRS "src/loco")
+set(loco_SETUP_PY_MODULES "")
+set(loco_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,2 @@
+set(ilqr_loco_MESSAGE_FILES "/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecAction.msg;/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecActionGoal.msg;/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecActionResult.msg;/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecActionFeedback.msg;/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecGoal.msg;/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecResult.msg;/home/ubuntu/catkin_ws/devel/share/ilqr_loco/msg/TrajExecFeedback.msg")
+set(ilqr_loco_SERVICE_FILES "")

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: ilqr_loco
+Description: Description of ilqr_loco
+Version: 0.0.0
+Cflags: -I/home/ubuntu/catkin_ws/devel/include -I/home/ubuntu/catkin_ws/src/ilqr_loco/include -I/home/ubuntu/catkin_ws/src/ilqr_loco/include/iLQG
+Libs: -L/home/ubuntu/catkin_ws/devel/lib -lilqr_loco
+Requires: roscpp std_msgs message_runtime actionlib_msgs loco_msgs

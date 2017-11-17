@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: loco
+Description: Description of loco
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/ubuntu/catkin_ws/devel/lib 
+Requires: message_runtime
